@@ -93,12 +93,13 @@ Feedback is optional; missing feedback does not break reports.</br>
 
 API endpoints tested using POSTMAN
 
-![Screenshot 1](images/Screenshot-1.png)  
-![Screenshot 2](images/Screenshot-2.png)  
-![Screenshot 3](images/Screenshot-3.png)  
-![Screenshot 4](images/Screenshot-4.png)  
-![Screenshot 5](images/Screenshot-5.png)  
-![Screenshot 6](images/Screenshot-6.png)  
+![Screenshot 1](backend/images/Screenshot-1.png)  
+
+![Screenshot 2](backend/images/Screenshot-2.png)  
+![Screenshot 3](backend/images/Screenshot-3.png)  
+![Screenshot 4](backend/images/Screenshot-4.png)  
+![Screenshot 5](backend/images/Screenshot-5.png)  
+![Screenshot 6](backend/images/Screenshot-6.png)  
 
 
 
