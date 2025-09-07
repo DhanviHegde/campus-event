@@ -91,6 +91,17 @@ Cannot register the same student for the same event twice.</br>
 Attendance cannot be marked for unregistered students.</br>
 Feedback is optional; missing feedback does not break reports.</br>
 
+API endpoints tested using POSTMAN
+
+![Screenshot 1](images/Screenshot-1.png)  
+![Screenshot 2](images/Screenshot-2.png)  
+![Screenshot 3](images/Screenshot-3.png)  
+![Screenshot 4](images/Screenshot-4.png)  
+![Screenshot 5](images/Screenshot-5.png)  
+![Screenshot 6](images/Screenshot-6.png)  
+
+
+
 
 
 
